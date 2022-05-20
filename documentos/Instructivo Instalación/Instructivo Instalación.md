@@ -10,7 +10,8 @@ Los contenidos del Workshop están disponibles en un repositorio de GitHub:
 
 ![img_11.png](img_11.png)
 
-Se seguirán agregando nuevos ejemplos y materiales. Para descargar la versión más actualizada como zip, ir al siguiente link:
+Se seguirán agregando nuevos ejemplos y materiales. 
+Descargar la versión más actualizada de los contenidos del workshop comprimidos en zip desde el siguiente link:
 
 [Download ZIP](https://github.com/charlymarchiaro/workshop-tp-01/archive/refs/heads/main.zip)
 
