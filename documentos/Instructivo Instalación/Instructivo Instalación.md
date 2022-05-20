@@ -48,7 +48,7 @@ En este instructivo nos interesan dos: **CMD.exe Prompt** y **jupyter Notebook**
 
 > Abrimos el CMD.exe Prompt. Es una ventana de consola de Windows normal, pero al ejecutarla desde el Anaconda Navigator hay dos diferencias importantes:
 > - En el título aparece como Administrator, por haber ejecutado el Anaconda Navigator como administrador. Esto es importante para poder instalar paquetes.
-> - A la izquierda del prompt aparece (base), que significa que estamos dentro de un entorno virtual de python. Base es el entorno por defecto que instala Anaconda, pero en el futuro pueden haber distintos entornos en la misma PC, cada uno con diferentes paquetes. Por ahora trabajemos en el base.
+> - A la izquierda del prompt aparece (base), que significa que estamos dentro de un entorno virtual de python. Base es el entorno por defecto que instala Anaconda, pero en el futuro puede haber distintos entornos en la misma PC, cada uno con diferentes paquetes. Por ahora trabajemos en el base.
 ![img_7.png](img_7.png)
 
 Vamos a usar el programa pip que es el gestor de paquetes de Python.
